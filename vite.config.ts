@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react";
 import path from "path";
 
 export default defineConfig({
-  base: "/spin-wheel-app/", // 👈 MUST match repo name
+  base: "/WellAtSeaSpinWheel/", // 👈 MUST match repo name
   plugins: [react()],
   resolve: {
     alias: {
